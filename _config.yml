@@ -16,5 +16,8 @@ navigation:
   - name: Gallery
     id: 1b277052-8ed6-45ee-acde-e392b3faa0a0
     type: content
+  - name: Biography
+    id: 8c3a52a8-7176-4397-8fc5-763bc86ee8b0
+    type: content
 title: The Path of Light and Shadows
 description: NRC Photography
