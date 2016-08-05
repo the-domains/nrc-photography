@@ -11,6 +11,8 @@ color:
     - '#FBB9BF'
     - '#E376B7'
 layout_spectrum: 0.846789772156626
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7fbd0ed-8a74-4481-b261-8676a5dfb165.png
 name: NRC Photography
 navigation:
   - name: Gallery
@@ -19,5 +21,7 @@ navigation:
   - name: Biography
     id: 8c3a52a8-7176-4397-8fc5-763bc86ee8b0
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe1b07ea-c6f3-41e8-957e-61c33ed1aa9c.png
 title: The Path of Light and Shadows
 description: NRC Photography
