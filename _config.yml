@@ -12,5 +12,9 @@ color:
     - '#E376B7'
 layout_spectrum: 0.846789772156626
 name: NRC Photography
+navigation:
+  - name: Gallery
+    id: 1b277052-8ed6-45ee-acde-e392b3faa0a0
+    type: content
 title: The Path of Light and Shadows
 description: NRC Photography
