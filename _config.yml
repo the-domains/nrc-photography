@@ -18,6 +18,9 @@ navigation:
   - name: Portfolio
     id: 8c3a52a8-7176-4397-8fc5-763bc86ee8b0
     type: content
+  - name: Contacts
+    id: 19a1cd80-fe8b-4755-9db3-93971dc706a9
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe1b07ea-c6f3-41e8-957e-61c33ed1aa9c.png
 title: The Path of Light and Shadows
