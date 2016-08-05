@@ -6,9 +6,10 @@ color:
   saturation: 0.11408621538430452
   rhythmicContrast: 0.856641486287117
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: NRC Photography
+title: The Path of Light and Shadows
